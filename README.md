@@ -7,9 +7,9 @@ Java Endless Runner Game - School Project
 - 2 obstacle types
 - auto save function
 
-### Reflection:
-- Custom Game Engine is partly weirdly intertwined with Java Frameworks
-- Lags cause buggy physics
+### Problems:
+- Some parts of my custom game engine are weirdly intertwined with Java frameworks
+- lags cause buggy physics
 - no GPU support, slow rendering
 - no comments yet
 
