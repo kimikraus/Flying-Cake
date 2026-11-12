@@ -1,8 +1,6 @@
 # Flying-Cake
 Java Endless Runner Game - School Project
 
-
-### Trailer
 https://github.com/user-attachments/assets/3e7c2f12-457d-4c70-8b30-de73e96da50c
 
 ### Features
